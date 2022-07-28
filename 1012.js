@@ -5,7 +5,7 @@ var A = parseFloat(lines.shift());
 var B = parseFloat(lines.shift());
 var C = parseFloat(lines.shift());
 
-var pi = 3.14159;
+var pi = 3.14159
 
 var triangulo = (A * C) / 2.0;
 var circulo = pi * Math.pow(C,2);

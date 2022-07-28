@@ -30,7 +30,7 @@ else if(lines[0]<lines[1]) {
             numero++;
         }
     }
-console.log(soma); 
+console.log(soma)
 }
 
 else {

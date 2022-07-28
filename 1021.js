@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
-let lines = input.split(' ');
+let lines = input.split(' ')
 
 let valor = parseFloat(lines.shift());
 let dinheiro = [100, 50, 20, 10, 5, 2];

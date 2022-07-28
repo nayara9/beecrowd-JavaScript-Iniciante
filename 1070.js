@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('/dev/stdin', 'utf8');
-let lines = parseInt(input);
+let lines = parseInt(input)
 
 let contador = 0
 

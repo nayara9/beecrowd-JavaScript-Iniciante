@@ -19,4 +19,4 @@ for(let i=0; i<lines.length; i++) {
     }
 }
 let media = (nota/contador).toFixed(2);
-console.log(`media = ${media}`);
+console.log(`media = ${media}`)

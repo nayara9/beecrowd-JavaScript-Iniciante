@@ -6,6 +6,6 @@ var salario = parseInt(lines.shift());
 var vendas = parseFloat(lines.shift());
 
 var comissao = 0.15*vendas;
-var totalSalario = comissao + salario;
+var totalSalario = comissao + salario
 
 console.log("TOTAL = R$ " + totalSalario.toFixed(2));

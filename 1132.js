@@ -1,7 +1,7 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
 let lines = input.split('\n').map(item=>parseInt(item));
 
-let total = 0
+let total = 0;
 if(lines[0]<lines[1]) {
     
     for(let i = lines[0]; i<=lines[1]; i++) {   

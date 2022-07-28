@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('/dev/stdin', 'utf8');
-let lines =parseFloat(input);
+let lines =parseFloat(input)
 
 let percent
 if(lines>=0 && lines<=400.00) {

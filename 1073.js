@@ -1,7 +1,7 @@
 let input = require('fs').readFileSync('/dev/stdin', 'utf8');
 let lines = input;
 
-let num = 0;
+let num = 0
 
 while(lines>=1 ) {
     while (num<=lines) {

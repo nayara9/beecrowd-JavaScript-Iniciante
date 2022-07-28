@@ -3,6 +3,6 @@ let lines = parseInt(input);
 
 for(let i=1; i<=lines; i++) {
     if(lines%i==0) {
-    console.log(i)
+    console.log(i);
     }
 }

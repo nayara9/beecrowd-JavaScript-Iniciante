@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
-let lines = input.split("\n");
+let lines = input.split("\n")
 
 for(let i = 1; i<=lines[0]; i++) {
     let [x, y, z] = lines[i].split(" ").map(item=>parseFloat(item));

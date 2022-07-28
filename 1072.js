@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('/dev/stdin', 'utf8');
-let lines = input.split("\n").map(item=>parseInt(item));
+let lines = input.split("\n").map(item=>parseInt(item))
 
 let inside = 0;
 let out = 0;

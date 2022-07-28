@@ -1,7 +1,7 @@
 let input = require('fs').readFileSync('/dev/stdin', 'utf8');
 let lines =parseFloat(input);
 
-let imposto = ["Isento", 8, 18, 28];
+let imposto = ["Isento", 8, 18, 28]
 
 
 if(lines>=0 && lines<=2000) {

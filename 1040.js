@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('/dev/stdin', 'utf8');
-let lines = input.split('\n');
+let lines = input.split('\n')
 
 let [n1, n2, n3, n4] = lines[0].split(" ");
 let media = (

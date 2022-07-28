@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
-let lines = input.split('\n').map(item=>parseInt(item));
+let lines = input.split('\n').map(item=>parseInt(item))
 
 let alcool = 0;
 let gasolina = 0;

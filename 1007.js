@@ -8,4 +8,4 @@ var d = parseInt(lines.shift());
 
 var diferenca = a * b - c * d;
 
-console.log("DIFERENCA = " + diferenca);
+console.log("DIFERENCA = " + diferenca)

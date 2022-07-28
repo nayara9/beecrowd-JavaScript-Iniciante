@@ -1,7 +1,7 @@
 var input = require('fs').readFileSync('stdin', 'utf8');
 var lines = input.split('\n');
 var num = parseInt(lines);
-var numero = num;
+var numero = num
 
 var cedula100 = parseInt(numero / 100);
 numero = numero % 100;

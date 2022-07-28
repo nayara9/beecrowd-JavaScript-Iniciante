@@ -1,5 +1,5 @@
 var input = require('fs').readFileSync('stdin', 'utf8');
-var lines = input.split(' ');
+var lines = input.split(' ')
 
 let A = parseInt(lines[0]);
 let B = parseInt(lines[1]);

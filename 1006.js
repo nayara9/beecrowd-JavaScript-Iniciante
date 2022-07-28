@@ -7,4 +7,4 @@ var c = parseFloat(lines.shift());
 
 var media = (a * 2 + b * 3 + c * 5) / 10;
 
-console.log("MEDIA = " + media.toFixed(1));
+console.log("MEDIA = " + media.toFixed(1))

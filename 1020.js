@@ -11,4 +11,4 @@ aniversario = aniversario % 30;
 
 console.log(
   ano + " ano(s)" + "\n" + mes + " mes(es)" + "\n" + aniversario + " dia(s)"
-);
+)

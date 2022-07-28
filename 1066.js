@@ -27,4 +27,4 @@ for(let i=0; i<lines.length; i++)   {
 console.log(`${evenCount} valor(es) par(es)
 ${oddCount} valor(es) impar(es)
 ${postCount} valor(es) positivo(s)
-${negCount} valor(es) negativo(s)`);
+${negCount} valor(es) negativo(s)`)

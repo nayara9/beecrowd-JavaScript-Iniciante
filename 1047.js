@@ -43,4 +43,4 @@ else {
         hora = horas2 - lines[0]
     }
 }   
-console.log(`O JOGO DUROU ${hora} HORA(S) E ${minuto} MINUTO(S)`);
+console.log(`O JOGO DUROU ${hora} HORA(S) E ${minuto} MINUTO(S)`)

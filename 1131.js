@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
-let lines = input.split('\n')
+let lines = input.split('\n');
 
 let contInter =0
 let contGrem=0

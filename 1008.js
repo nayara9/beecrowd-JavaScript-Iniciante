@@ -7,6 +7,6 @@ var preco = parseFloat(lines.shift());
 
 var salario = horas * preco;
 
-console.log("NUMBER = " + numero); 
+console.log("NUMBER = " + numero) 
 console.log("SALARY = U$ " + salario.toFixed(2));
 

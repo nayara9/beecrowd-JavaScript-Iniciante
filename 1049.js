@@ -1,5 +1,5 @@
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
-let lines = input.replace('\r','').split("\n");
+let lines = input.replace('\r','').split("\n")
 
 if (lines[0] == "vertebrado") {
     if (lines[1] == "ave") {

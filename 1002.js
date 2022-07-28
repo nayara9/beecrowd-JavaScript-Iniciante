@@ -4,4 +4,4 @@ let lines = parseFloat(input);
 let pi = 3.14159;
 let area = pi * Math.pow(lines,2);
 
-console.log(`A=${area.toFixed(4)}`);
+console.log(`A=${area.toFixed(4)}`)

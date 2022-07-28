@@ -6,4 +6,4 @@ let b = lines.shift()
 
 let soma = a+b;
 
-console.log(`SOMA = ${soma}`);
+console.log(`SOMA = ${soma}`)

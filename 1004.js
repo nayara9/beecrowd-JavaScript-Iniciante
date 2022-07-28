@@ -6,4 +6,4 @@ var b = parseInt(lines.shift());
 
 var prod = a*b;
 
-console.log("PROD = " + prod);
+console.log("PROD = " + prod)

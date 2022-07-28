@@ -13,4 +13,4 @@ for(let i = 0; i<lines.length ; i++) {
 
 let media = (soma/contador).toFixed(1);
 console.log(`${contador} valores positivos
-${media}`);
+${media}`)

@@ -10,6 +10,6 @@ for(let i = 0; i<2; i+=0.2) {
             console.log(`I=${parseFloat(i.toFixed(1))} J=${soma}`);
         }
         else{
-            console.log(`I=${parseInt(i.toFixed(0))} J=${j+i}`);
+            console.log(`I=${parseInt(i.toFixed(0))} J=${j+i}`)
         }
 }

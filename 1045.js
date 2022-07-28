@@ -1,7 +1,7 @@
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split(' ').map(item => parseFloat(item));
 
-lines.sort((a, b) => b-a);
+lines.sort((a, b) => b-a)
 
 if (lines[0]>=(lines[2]+lines[1])) {
     console.log("NAO FORMA TRIANGULO");

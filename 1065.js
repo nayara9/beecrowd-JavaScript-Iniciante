@@ -9,4 +9,4 @@ for(let i = 0; i < lines.length; i++) {
     }
 }
 
-console.log(`${evenCount} valores pares`)
+console.log(`${evenCount} valores pares`);

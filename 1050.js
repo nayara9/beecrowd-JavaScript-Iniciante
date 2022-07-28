@@ -15,5 +15,5 @@ var ddd = {
 if (ddd[lines]===undefined) {
     console.log("DDD nao cadastrado")
 } else {
-console.log (ddd[lines]);
+console.log (ddd[lines])
 }

@@ -15,4 +15,4 @@ else if (lines[0]<lines[1]) {
     tempo = lines[1] - lines[0] 
 }
 
-console.log (`O JOGO DUROU ${tempo} HORA(S)`);
+console.log (`O JOGO DUROU ${tempo} HORA(S)`)

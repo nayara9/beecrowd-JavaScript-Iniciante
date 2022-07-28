@@ -1,7 +1,7 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
 let lines = parseInt(input);
 
-let contador=1
+let contador=1;
 
 for(let i = 1; contador <= lines; i+=4) {
     let j = i+1

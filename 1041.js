@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('/dev/stdin', 'utf8');
-let lines = input.split(' ');
+let lines = input.split(' ')
 
 if (parseFloat(lines[0]) > 0 && parseFloat(lines[1]) > 0) {
   console.log("Q1");

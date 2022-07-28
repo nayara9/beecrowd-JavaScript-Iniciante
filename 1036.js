@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
-let lines = input.split(' ');
+let lines = input.split(' ')
 
 let a = parseFloat(lines[0]);
 let b = parseFloat(lines[1]);

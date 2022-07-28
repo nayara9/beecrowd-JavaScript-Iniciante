@@ -1,5 +1,5 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
-let lines = input.split(' ');
+let lines = input.split(' ')
 
 if (parseFloat(lines) >= 0 && parseFloat(lines) <= 25) {
   console.log("Intervalo [0,25]");

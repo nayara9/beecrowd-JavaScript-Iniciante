@@ -1,7 +1,7 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
 let lines = input.split('\n');
 
-let num = lines.length;
+let num = lines.length
 
 for (let i=0; i<num; i++) {
     
